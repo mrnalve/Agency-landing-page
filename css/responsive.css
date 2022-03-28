@@ -1,0 +1,88 @@
+@media(min-width:992px) and (max-width:1199.98px){
+     /* subscribe part starts */
+    #subscribe  .subscribe_img h3 {
+        font-size: 35px;
+    }
+    #subscribe  .subscribe_img {
+        top: -33%;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    /* online shopping part starts */
+    #online_shp .online_shp_img{
+        left: 23%;
+    }
+    /* subscribe part starts */
+    #subscribe .subscribe_cnt button {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+}
+@media(min-width:576px) and (max-width:991.98px){
+   
+}
+@media(min-width:576px) and (max-width:767.98px){
+   /* online shopping part starts */
+   #online_shp .online_shp_img{
+    position: inherit;
+}
+}
+@media(min-width:451px) and (max-width:600.99px){
+   
+}
+@media(max-width:1400px){
+    
+}
+@media(max-width:1200px){
+   
+}
+@media(max-width:900px){
+    
+}
+@media(max-width:991px){
+    
+}
+@media(max-width:991.98px){
+    
+}
+@media(max-width:767px){
+    /* banner part starts */
+    #banner .banner_cnt h1{
+        font-size: 32px;
+    }
+    #banner .banner_cnt a{
+        margin-bottom: 20px;
+    }
+    /* footer part starts */
+    #footer .footer_card h3 {
+        padding-bottom: 12px;
+        padding-top: 30px;
+    }
+}
+@media(max-width:567px){
+   
+}
+@media(max-width:575px){
+    /* subscribe part starts */
+    #subscribe .subscribe_cnt button {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    /* footer part starts */
+    #footer .footer_up .contry_list{
+        padding-top: 20px;
+    }
+    #footer .footer_up .contry_list ul li {
+        padding: 0 10px 10px 10px;
+    }
+    #footer .footer_center .payment_card img {
+        padding: 10px 8px;
+    }
+}
+@media(max-width:450px){
+    
+}
+@media(max-width:340px){
+    
+}
+
